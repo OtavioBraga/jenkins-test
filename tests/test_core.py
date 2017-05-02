@@ -1,5 +1,4 @@
 import unittest
-import xmlrunner
 from app.app import meu_web_app
 
 
