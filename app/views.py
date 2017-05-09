@@ -5,7 +5,7 @@ meu_web_app = Flask('meu_web_app')
 
 @meu_web_app.route('/')
 def pagina_inicial():
-    return 'okur'
+    return 'ok'
 
 
 @meu_web_app.route('/date')
